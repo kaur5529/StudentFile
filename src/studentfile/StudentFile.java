@@ -7,7 +7,7 @@ package studentfile;
 
 /**
  *
- * @author grewal
+ * @author kaur5529
  */
 public class StudentFile {
      public static void main(String[] args)
